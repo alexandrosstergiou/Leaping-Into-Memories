@@ -4,7 +4,7 @@
 ![Library](https://img.shields.io/badge/library-PyTorch-blue?logo=Pytorch)
 ![GitHub license](https://img.shields.io/cocoapods/l/AFNetworking)
 
-Code implementation for "Leaping Into Memories: Space-Time Deep Feature Synthesis"
+Code implementation for "Leaping Into Memories: Space-Time Deep Feature Synthesis" [[arXiv preprint]](https://arxiv.org/abs/2303.09941)
 
 <p align="center">
 <img src="./resources/leaps.png" width="700" />
