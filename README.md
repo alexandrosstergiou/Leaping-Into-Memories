@@ -2,7 +2,7 @@
 
 ![supported versions](https://img.shields.io/badge/python-3.x-brightgreen/?style=flat&logo=python&color=green)
 ![Library](https://img.shields.io/badge/library-PyTorch-blue?logo=Pytorch)
-![GitHub license](https://img.shields.io/cocoapods/l/AFNetworking)
+![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey)
 
 Code implementation for "Leaping Into Memories: Space-Time Deep Feature Synthesis" [[arXiv preprint]](https://arxiv.org/abs/2303.09941)
 
