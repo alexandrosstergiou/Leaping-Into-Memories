@@ -60,7 +60,7 @@ python run.py --store_dir='my_dir' --reg=0.1 --model='x3d_xs' --verifier 'x3d_xs
 
 ## Citation
 
-```
+```bibtex
 @article{stergiou2023leaping,
   title={Leaping Into Memories: Space-Time Deep Feature Synthesis},
   author={Stergiou, Alexandros, and Nikos Deligianis},
